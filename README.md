@@ -11,11 +11,10 @@ This Power BI case study simulates a junior trader role on a mortgage originatio
 ## Dashboard Visualizations
 
 ### Key Findings: Credit Score Impact on Pricing
-![Pricing Recommendation Analysis]
 *Key influencer analysis revealing 72 bps pricing premium for borrowers with FICO scores above 760*
 
 ### Profit Analysis Dashboard
-![Profit Analysis KPIs](screenshots/profit-analysis-kpi.png)
+![Profit Analysis KPIs](profit-analysis-kpi.png)
 *Comprehensive view of portfolio performance: $23.81M revenue, 7.07% profit margin, exceeding 5% target*
 
 ### Trade Execution Details
@@ -23,7 +22,6 @@ This Power BI case study simulates a junior trader role on a mortgage originatio
 *Counterparty analysis showing $348M in total trades with $11.6M premium distribution*
 
 ### Loan Bids Analysis
-![Loan Bids Detail]
 *Individual loan pricing at weighted average of 103.45, demonstrating consistent above-par execution*
 
 ---
